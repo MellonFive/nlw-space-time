@@ -253,3 +253,7 @@ Dedicação foco e constância -> O resultado vai vir com você investindo em vo
 
 Investe na sua educação, na sua mentalidade e use tudo a seu favor.
 
+<h1 align="center">Você zerou o jogo! Parabéns! E não para por aí... Você sempre pode evoluir.</h1> 
+
+<h2 align="center">Um magikarp sempre pode evoluir. Pode ser difícil? Sim!!! Mas um dia ele vai evoluir.</h2>
+
